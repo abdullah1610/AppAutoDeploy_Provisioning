@@ -1,0 +1,6 @@
+http://web01/
+to get the webpage it will hit
+
+user anme : password
+admin_vp  : admin_vp
+
